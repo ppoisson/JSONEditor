@@ -14,6 +14,6 @@ Copy the files to your web server.  You'll want to make sure json_file.json is w
 
 ## Notes
 
-If you want to change the name of the json file simply change the $file variable in index.php on line 7
+If you want to change the name of the json file simply change the $file variable in index.php on line 6
 
 Developed by Paul Poisson
