@@ -1,0 +1,18 @@
+body {
+  padding:20px;
+}
+p {
+  font-size:18px;
+  padding:10px 0 10px 0;
+}
+.btn-config {
+  display:block;
+}
+.btn-config.collapsed:before
+{
+  content:'SHOW CONFIGURATION';
+}
+.btn-config:before
+{
+  content:'HIDE CONFIGURATION';
+}

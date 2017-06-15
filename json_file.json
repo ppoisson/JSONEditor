@@ -1,0 +1,111 @@
+{
+    "group_one": [
+        {
+            "image": "10.jpg",
+            "headline": "Time To Ride!",
+            "content": "Find the perfect bike for yourself",
+            "button_text": "Get your bike >>",
+            "button_link": "/bikes"
+        },
+        {
+            "image": "21.jpg",
+            "headline": "Get the Gear!",
+            "content": "Safety and Comfort",
+            "button_text": "Find your Harness >>",
+            "button_link": "climbing/climbing-harnesses"
+        },
+        {
+            "image": "22.jpg",
+            "headline": "Jump Into The Wild",
+            "content": "Ultralight for Backpacking",
+            "button_text": "Get your tent >>",
+            "button_link": "tents/backpacking-tents"
+        }
+    ],
+    "group_two": [
+        {
+            "0": "0999261231",
+            "1": "100518211",
+            "2": "0991452341"
+        }
+    ],
+    "group_three": [
+        {
+            "image": "/images/skisnowboard.jpg",
+            "headline_dark": "Ski and Snowboard",
+            "headline_light": "Service Center",
+            "button_link": "ski-shop",
+            "button_text": "Learn More >>",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id tempus nunc, et rutrum libero. Nam ullamcorper ut metus nec iaculis. Phasellus non placerat est, ut ultricies erat. Aliquam tincidunt mollis nulla sit amet mattis."
+        },
+        {
+            "image": "/images/embroidery.jpg",
+            "headline_dark": "Embroidery",
+            "headline_light": "Garment Center",
+            "button_link": "embroidery",
+            "button_text": "Learn More >>",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id tempus nunc, et rutrum libero. Nam ullamcorper ut metus nec iaculis. Phasellus non placerat est, ut ultricies erat. Aliquam tincidunt mollis nulla sit amet mattis."
+        },
+        {
+            "image": "/images/decals.jpg",
+            "headline_dark": "Custom",
+            "headline_light": "Decals",
+            "button_link": "decals",
+            "button_text": "Learn More >>",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id tempus nunc, et rutrum libero. Nam ullamcorper ut metus nec iaculis. Phasellus non placerat est, ut ultricies erat. Aliquam tincidunt mollis nulla sit amet mattis."
+        }
+    ],
+    "group_four": [
+        {
+            "name": "Mini Tune",
+            "price": "$35.00",
+            "list": [
+                "Base grind and polish\nEdge sharpening and 1° bevel\nTip and Tale edge detuning\nHot wax"
+            ]
+        },
+        {
+            "name": "Full Tune",
+            "price": "$50.00 and Up",
+            "list": [
+                "Mini Tune\nPetex filled bases\nAdditional charge for major base work"
+            ]
+        },
+        {
+            "name": "Edge or Topskin Delamination Repair",
+            "price": "$30.00 and Up",
+            "list": [
+                ""
+            ]
+        },
+        {
+            "name": "Ski Binding Mount",
+            "price": "$40.00",
+            "list": [
+                "Mounting and testing\nHot wax (new skis only)\nMarker, Salomon or Atomic bindings only"
+            ]
+        }
+    ],
+    "group_five": [
+        {
+            "name": "George M.",
+            "title": "Shipping Manager",
+            "year": "1984",
+            "image": "/images/georgem.jpg",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id tempus nunc, et rutrum libero. Nam ullamcorper ut metus nec iaculis. Phasellus non placerat est, ut ultricies erat. Aliquam tincidunt mollis nulla sit amet mattis. Ut et turpis sed mi accumsan porttitor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis at massa ac nunc cursus tincidunt. Aliquam vehicula nisl elementum tempor venenatis. Quisque vel efficitur est."
+        },
+        {
+            "name": "Owen W.",
+            "title": "General Manager",
+            "year": "2007",
+            "image": "/images/owenw.jpg",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id tempus nunc, et rutrum libero. Nam ullamcorper ut metus nec iaculis. Phasellus non placerat est, ut ultricies erat. Aliquam tincidunt mollis nulla sit amet mattis. Ut et turpis sed mi accumsan porttitor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis at massa ac nunc cursus tincidunt. Aliquam vehicula nisl elementum tempor venenatis. Quisque vel efficitur est."
+        },
+        {
+            "name": "Frank D.",
+            "title": "Assistant Manager",
+            "year": "2010",
+            "image": "/images/frankd.jpg",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id tempus nunc, et rutrum libero. Nam ullamcorper ut metus nec iaculis. Phasellus non placerat est, ut ultricies erat. Aliquam tincidunt mollis nulla sit amet mattis. Ut et turpis sed mi accumsan porttitor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis at massa ac nunc cursus tincidunt. Aliquam vehicula nisl elementum tempor venenatis. Quisque vel efficitur est."
+        }
+    ]
+}
